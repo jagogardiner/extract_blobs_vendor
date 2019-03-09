@@ -1,0 +1,10 @@
+# Extract blobs vendor script
+
+(Lineage's vendor stripped for vendor blob updating)
+
+**__Make sure your extract-files.sh in device tree is set to use lineage in its path!__**
+
+This is my build vendor used to extract blobs.
+It originally comes from LineageOS but it's stripped down for vendor extracting.
+
+Follow the rest of my guide on XDA: 
